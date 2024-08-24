@@ -31,3 +31,4 @@
 ||advice-ads.s3.amazonaws.com^
 ||analytics.s3.amazonaws.com^
 ||analyticsengine.s3.amazonaws.com^
+||grs.hicloud.com^
